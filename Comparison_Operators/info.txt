@@ -1,0 +1,6 @@
+Info file for folder.
+
+Folder contains:
+Comparision Operators
+Chaining Comparision Operators 
+Mathematic examples of using numbers 
