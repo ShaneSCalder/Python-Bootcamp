@@ -1,0 +1,6 @@
+This file contains python written on Jupyter notebooks
+if Elif and Else statements
+For Loops 
+While Loops
+Useful Operators
+List Comprehensions
